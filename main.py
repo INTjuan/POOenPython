@@ -15,8 +15,8 @@ def main():
 
     red.listar_usuarios()
 
-    u1.enviar_mensaje(u2, "Hola Juan!")
-    u2.enviar_mensaje(u1, "¡Hola Nestor! ¿Cómo estás?")
+    u1.enviar_mensaje(u2, "Hola Nestor!")
+    u2.enviar_mensaje(u1, "¡Hola Juan! ¿Cómo estás?")
     u1.mostrar_mensajes()
     u2.mostrar_mensajes()
 
