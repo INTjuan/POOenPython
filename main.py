@@ -22,6 +22,3 @@ def main():
 
     admin.eliminar_usuario(red, u2)
     red.listar_usuarios()
-
-if __name__ == "__main__":
-    main()
